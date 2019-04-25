@@ -1,2 +1,2 @@
-# Plants_clasification
+# Plants_classification
 plants-resized-data
